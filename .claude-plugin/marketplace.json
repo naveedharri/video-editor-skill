@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "video-editor-marketplace",
+  "version": "1.0.0",
+  "description": "Video editing plugin for Claude - stitching, transitions, TikTok-style captions, teasers, and fast GPU transcription",
+  "owner": {
+    "name": "naveedharri",
+    "email": "naveedharri@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "video-editor",
+      "description": "Video editing skill using FFmpeg and Remotion - stitching, transitions, captions, teasers, transcription",
+      "version": "1.0.0",
+      "author": {
+        "name": "naveedharri",
+        "email": "naveedharri@gmail.com"
+      },
+      "source": "./plugins/video-editor",
+      "category": "productivity"
+    }
+  ]
+}

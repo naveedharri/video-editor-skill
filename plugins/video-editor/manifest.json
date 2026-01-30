@@ -1,0 +1,9 @@
+{
+  "name": "video-editor",
+  "version": "1.0.0",
+  "description": "Video editing skill using FFmpeg and Remotion - stitching, transitions, captions, teasers, transcription",
+  "author": {
+    "name": "naveedharri",
+    "email": "naveedharri@gmail.com"
+  }
+}
