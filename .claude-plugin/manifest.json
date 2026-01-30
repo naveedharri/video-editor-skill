@@ -1,0 +1,8 @@
+{
+  "name": "video-editor",
+  "version": "1.0.0",
+  "description": "Video editing skill for Claude - stitching, transitions, TikTok-style captions, teasers, and fast GPU transcription",
+  "author": "naveedharri",
+  "homepage": "https://github.com/naveedharri/video-editor",
+  "skills": ["video-editor"]
+}
