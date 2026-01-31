@@ -62,6 +62,7 @@ See [rules/intelligent-editing.md](rules/intelligent-editing.md) for detailed wo
 - [rules/transitions.md](rules/transitions.md) - Add fade, slide, wipe between clips
 - [rules/captions.md](rules/captions.md) - Add subtitles and TikTok-style captions
 - [rules/teasers.md](rules/teasers.md) - Create 30-second teasers/trailers
+- [rules/title-cards.md](rules/title-cards.md) - Add chapter headers, bumpers, section titles
 
 ### Reference
 - [rules/ffmpeg-basics.md](rules/ffmpeg-basics.md) - Common FFmpeg patterns and troubleshooting
